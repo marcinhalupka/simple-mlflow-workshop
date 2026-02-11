@@ -29,7 +29,6 @@ The target audience is a software engineer with little or no ML background.
 
 ```text
 demo.py         # Main MLflow Tracking demo script
-script.md       # Minute-by-minute outline for the live presentation
 requirements.txt
 README.md
 
